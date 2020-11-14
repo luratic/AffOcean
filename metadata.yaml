@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/affocean/"
+versions:
+  - sha: d3b7450cdff875087675789cb00a1c80b8ea767f
+    changeNotes: Initial release
